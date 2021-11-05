@@ -48,6 +48,10 @@
     "author": {
       "via": "articles",
       "model": "writer"
+    },
+    "tag": {
+      "via": "articles",
+      "model": "tag"
     }
   }
 }
